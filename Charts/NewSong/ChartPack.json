@@ -1,0 +1,61 @@
+{
+  "DataVersion": 0,
+  "Title": "测试111",
+  "MusicFilePath": "Assets/CysMultimediaAssets/Charts/NewSong/Music.ogg",
+  "CoverFilePath": null,
+  "ChartDatas": [
+    {
+      "EndTime": 0.0,
+      "Offset": -2812.0,
+      "ReadyBeat": 4,
+      "BpmGroups": [
+        {
+          "Bpm": 128.0,
+          "StartBeat": {
+            "IntegerPart": 0,
+            "Numerator": 0,
+            "Denominator": 0
+          }
+        }
+      ],
+      "SpeedGroups": [
+        {
+          "Name": "Default",
+          "Type": 0,
+          "BezierControlPoints": [
+            [
+              0.0,
+              1.0
+            ]
+          ]
+        }
+      ],
+      "Notes": [
+        {
+          "Pos": 0.0,
+          "Type": 0,
+          "SpeedGroupIndex": 0,
+          "CorrectAudio": null,
+          "HitAudio": null,
+          "JudgeBeat": {
+            "IntegerPart": 0,
+            "Numerator": 0,
+            "Denominator": 0
+          },
+          "JudgeAble": true,
+          "ViewAble": true
+        }
+      ],
+      "Difficulty": 0,
+      "Level": "20"
+    }
+  ],
+  "PackHash": null,
+  "CoverCroppingPos": null,
+  "CoverCroppingWidth": null,
+  "ExportTime": null,
+  "MusicPreviewEndBeat": null,
+  "MusicPreviewStartBeat": null,
+  "SaveTime": "0001-01-01T00:00:00",
+  "Staffs": null
+}
