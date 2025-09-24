@@ -10,7 +10,8 @@ TrueTypeFontImporter:
   includeFontData: 1
   fontNames:
   - LXGW WenKai Mono
-  fallbackFontReferences: []
+  fallbackFontReferences: 
+  - {}
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1

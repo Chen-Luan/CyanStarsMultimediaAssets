@@ -10,7 +10,8 @@ TrueTypeFontImporter:
   includeFontData: 1
   fontNames:
   - Source Han Serif CN
-  fallbackFontReferences: []
+  fallbackFontReferences:
+  - {}
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1
