@@ -6,20 +6,13 @@
       "VersionTitle": "Vocaloid",
       "AudioFilePath": "Assets/Music.ogg",
       "Offset": 100,
-      "Staffs": {
-        "AfterLight余晖": [
-          "作编绘混调词"
-        ],
-        "魎天青": [
-          "视频"
-        ],
-        " mika": [
-          "游戏曲绘"
-        ],
-        "晨峦": [
-          "谱面设计"
-        ]
-      }
+      "StaffNames": [
+        "AfterLight余晖",
+        "魎天青",
+        "mika",
+        "晨峦",
+        "洛天依"
+      ]
     }
   ],
   "BpmGroup": [

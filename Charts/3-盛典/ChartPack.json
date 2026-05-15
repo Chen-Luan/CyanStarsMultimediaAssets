@@ -6,17 +6,12 @@
       "VersionTitle": "盛典",
       "AudioFilePath": "Assets/盛典.ogg",
       "Offset": 16,
-      "Staffs": {
-        "血黎Maple": [
-          "谱面设计"
-        ],
-        "寻仙仙": [
-          "游戏曲绘"
-        ],
-        "QGRay": [
-          "词曲编混调视绘"
-        ]
-      }
+      "StaffNames": [
+        "QGRay",
+        "寻仙仙",
+        "血黎Maple",
+        "洛天依"
+      ]
     }
   ],
   "BpmGroup": [
