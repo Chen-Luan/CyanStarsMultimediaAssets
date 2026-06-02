@@ -1,0 +1,1 @@
+Bold 字重在新版本已改称为 Medium 字重，详见[官方说明](https://github.com/lxgw/LxgwWenKai/blob/c2d98ae910b7145d23a31fb9f589bb41600c12de/documentation/add_glyphs_txt/20240929.md)。
